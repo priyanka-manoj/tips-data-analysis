@@ -1,6 +1,6 @@
 
 
-# Tips Data Analysis
+# Tips Dataset - Exploratory Data Analysis
 
 ##  Problem Statement
 Analyze trends and patterns in restaurant revenue and tipping behavior across different customer segments.
